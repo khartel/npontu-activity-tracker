@@ -101,7 +101,7 @@ A Laravel Gate (`admin`) is used for clean middleware-based protection.
 ### 1. Clone & Install
 
 ```bash
-git clone <repo-url> npontu-tracker
+git clone [<repo-url>](https://github.com/khartel/npontu-activity-tracker) npontu-tracker
 cd npontu-tracker
 composer install
 ```
